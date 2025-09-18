@@ -7,7 +7,7 @@
 < Some general skills I have honed and am continuing to improve include: Backend Development, Frontend Development, UI/UX Design, Teamwork, Collaboration and general Friendliness >
 
 ### Relevant Courses
-< Relevant courses I have completed or are enrolled in include: Introduction to Programming, Data Structures and Analysis, Linear Algebra, Calculus 1 and 2, Essential Tools for Computer Science, Web Development >
+< Relevant courses I have completed or are enrolled in include: Introduction to Programming, Data Structures and Analysis, Linear Algebra, Calculus 1 and 2, Essential Tools for Computer Science, Web Development, Systems Fundamentals, Foundations of Programming, and Models of Languages and Computation >
 
 ### Tools and Programming Languages
 < Some relevant tools im familiar with include: Python, Java, MERN, HTML/CSS, Bash, Git, Docker, as well as MS Office and G Suites >
